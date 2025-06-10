@@ -1,1 +1,4 @@
+*.FCBak
+*.step
+*.stl
 schematics
