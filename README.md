@@ -21,4 +21,4 @@ An adjustable-curve, modular eurorack enclosure.
 ### Wiring
 
 - [Doepfer PSU3 Manual](https://doepfer.de/a100_man/A100_Netzteil_Hinweise_2020.pdf)
-- [Doepfer PSU3 Wiring](https://doepfer.de/a100_man/A100_MAINS_PS_BUS.pdf)
+- [Doepfer PSU3 Wiring](https://doepfer.de/a100_man/A100PSU3_wiring.pdf)
