@@ -2,7 +2,8 @@
 
 An adjustable-curve, modular eurorack enclosure.
 
-![Preview](preview.png)
+![Front](preview_front.png)
+![Rear](preview_rear.png)
 
 ## References
 
