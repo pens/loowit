@@ -2,6 +2,8 @@
 
 An adjustable-curve, modular eurorack enclosure.
 
+See my [blog post](https://rgb.sh/blog/loowit) for more details on the design.
+
 ![Front](preview_front.png)
 ![Rear](preview_rear.png)
 
